@@ -5,7 +5,7 @@
     "jsr:@std/internal@^1.0.5": "1.0.5",
     "npm:@ai-sdk/openai@latest": "1.2.3_zod@3.23.8",
     "npm:ai@latest": "4.1.56_zod@3.23.8",
-    "npm:dotenv@latest": "16.4.7",
+    "npm:dotenv@^16.4.5": "16.4.7",
     "npm:zod@3.23.8": "3.23.8"
   },
   "jsr": {
@@ -152,7 +152,7 @@
       "jsr:@std/assert@1",
       "npm:@ai-sdk/openai@latest",
       "npm:ai@latest",
-      "npm:dotenv@latest",
+      "npm:dotenv@^16.4.5",
       "npm:zod@3.23.8"
     ]
   }
